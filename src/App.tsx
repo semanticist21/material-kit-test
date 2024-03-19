@@ -31,6 +31,17 @@ function App() {
           sx={{
             marginRight: 1,
           }}
+          color="secondary"
+        >
+          적용하기
+        </Button>
+        <Button
+          variant="contained"
+          sx={{
+            marginRight: 1,
+          }}
+          color="secondary"
+          disabled
         >
           적용하기
         </Button>
